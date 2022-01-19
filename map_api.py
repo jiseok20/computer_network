@@ -1,6 +1,6 @@
 import requests
 
-URL = "https://maps.googleapis.com/maps/api/geocode/json?latlng=40.714224,-73.961452&key=AIzaSyATuLUXcxktLQI9H-WS54eTh-mhlX_X7Bw "
+URL = "your key "
 
 location = input("장소 검색: ")
 
